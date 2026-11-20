@@ -1,6 +1,6 @@
 cask "jutsu-studio" do
-  version "0.2.6"
-  sha256 "b064e34e1698adad40776dae92a6b837e0e50554b6a37cb39be2716564bf12ee"
+  version "0.2.7"
+  sha256 "e0441c961c2ee7db0322f8c1edea0c77efef697d606ea5f5aae03070aac04900"
 
   url "https://github.com/jutsuhq/jutsu-studio/releases/download/v#{version}/Jutsu-Studio-#{version}.dmg"
   name "Jutsu Studio"
